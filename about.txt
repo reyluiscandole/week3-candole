@@ -1,2 +1,3 @@
 Name: Rey Luis Candole
 Course: Integrative Programming and Technology
+Goal: Learn Git and GitHub.
