@@ -1,3 +1,4 @@
 Name: Rey Luis Candole
 Course: Integrative Programming and Technology
 Goal: Learn Git and GitHub.
+Workflow: Edit files, stage changes, commit, then push.
